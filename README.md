@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ryannarula
+- 👋 Hi, I’m @Bruce wayne
 - 👀 I’m interested in microcontrollers and Machine learning
 - 🌱 I’m currently trying to improve in Machine learning
 - 💞️ I’m looking to collaborate on some AI S 
